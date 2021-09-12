@@ -22,6 +22,19 @@ yarn start
 ```
 
 
+#### **Layout**
+
+- **[HTML](https://www.w3schools.com/html/)**
+- **[CSS](https://www.w3schools.com/css/)**
+- **[JS](https://www.w3schools.com/js/)**
+- **[React Js](https://www.w3schools.com/REACT/DEFAULT.ASP)**
+
+#### **Utilitários**
+
+<!-- - **Repositório implementação de referência: [github-api-interface](https://github.com/benits/github-api-interface)** -->
+<!-- - **Instutor: [Matheus Benites](https://github.com/benits)** -->
+- **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
+- **Markdown: [StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 
 # Getting Started with Create React App
 
