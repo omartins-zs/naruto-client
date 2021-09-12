@@ -9,7 +9,7 @@
 <p align="center">Pasta Naruto server</p>
 
 # Running locally
-With Python and Pip installed, install the dependencies with:
+With node_modules installed, install the dependencies with:
 ```sh
 npm install
 ```
