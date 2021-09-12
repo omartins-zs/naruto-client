@@ -1,4 +1,8 @@
 
+<h1 align="center">
+    <img alt="Bateria" width="800" height="400" title="" src="./src/images/2NP90DSQce.gif" />
+</h1>
+
 finally run:
 ```sh
 yarn start
