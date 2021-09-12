@@ -1,13 +1,26 @@
+<h1 align="center"> Naruto Client </h1>
+
 
 <h1 align="center">
-    <img alt="Bateria" width="800" height="400" title="" src="./src/images/2NP90DSQce.gif" />
+    <img alt="Nauto Gif" width="800" height="400" title="" src="./src/images/2NP90DSQce.gif" />
 </h1>
 
-finally run:
+
+<p align="center">Pasta Naruto server</p>
+
+# Running locally
+With Python and Pip installed, install the dependencies with:
+```sh
+npm install
+```
+
+
+and finally run:
 ```sh
 yarn start
 
 ```
+
 
 
 # Getting Started with Create React App
